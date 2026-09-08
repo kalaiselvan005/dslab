@@ -1,0 +1,73 @@
+Array Operation Menu:
+1. create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Element
+6. Exit
+Enter your choice: 5
+Array is empty.
+
+Array Operation Menu:
+1. create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Element
+6. Exit
+Enter your choice: 2
+Enter element to insert: 10
+Enter position to insert (0 to 0): 1
+Error:Invalid position.
+
+Array Operation Menu:
+1. create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Element
+6. Exit
+Enter your choice: 5
+Array is empty.
+
+Array Operation Menu:
+1. create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Element
+6. Exit
+Enter your choice: 3
+Enter element tom search: 10
+Element found at position: 0
+
+Array Operation Menu:
+1. create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Element
+6. Exit
+Enter your choice: 4
+Enter position to delete (0 to -1): 0
+Error: Inavaild position.
+
+Array Operation Menu:
+1. create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Element
+6. Exit
+Enter your choice: 5
+Array is empty.
+
+Array Operation Menu:
+1. create Array
+2. Insert Element
+3. Search Element
+4. Delete Element
+5. Display Element
+6. Exit
+Enter your choice: 1 2 3 4 5
+
